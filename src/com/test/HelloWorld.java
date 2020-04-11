@@ -8,6 +8,9 @@ public class HelloWorld {
 		System.out.println("add new branch ticket and commiting 1st time");
 		System.out.println("updated  branch ticket and committed  2nd time");
 		System.out.println("updated  branch ticket and committed  3rd time");
+		System.out.println("add new branch ticket2 and commiting 1st time");
+		System.out.println("update  branch ticket2 and commiting 2nd time");
+
 
 	}
 }
